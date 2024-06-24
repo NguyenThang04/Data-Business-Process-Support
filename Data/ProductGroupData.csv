@@ -1,0 +1,501 @@
+ProductGroupID,GroupName,GroupDescription,Category,SubCategory,Department,ManagerID,CreatedDate,ModifiedDate,IsActive
+1,Accessories,Accessories products,Gadgets,Stationary,Development,32,2024-01-07 06:09:33.944304,2024-03-18 06:09:33.944304,False
+2,Computers,Computers products,Gadgets,Wearable,Marketing,42,2023-10-28 06:09:33.944318,2024-01-17 06:09:33.944318,True
+3,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Development,35,2023-11-28 06:09:33.944324,2024-02-25 06:09:33.944324,True
+4,Accessories,Accessories products,Gadgets,Wearable,Marketing,19,2023-07-05 06:09:33.944329,2023-07-06 06:09:33.944329,False
+5,Mobile Devices,Mobile Devices products,Electronics,Wearable,Marketing,44,2023-11-10 06:09:33.944334,2024-02-02 06:09:33.944334,True
+6,Cameras,Cameras products,Electronics,Wearable,Marketing,42,2023-07-15 06:09:33.944339,2023-10-10 06:09:33.944339,False
+7,Computers,Computers products,Gadgets,Stationary,Marketing,14,2023-10-01 06:09:33.944344,2024-01-01 06:09:33.944344,True
+8,Accessories,Accessories products,Gadgets,Portable,Marketing,45,2023-08-04 06:09:33.944351,2023-08-25 06:09:33.944351,True
+9,Audio Equipment,Audio Equipment products,Gadgets,Portable,Marketing,25,2023-12-09 06:09:33.944357,2024-01-12 06:09:33.944357,True
+10,Accessories,Accessories products,Gadgets,Stationary,Sales,49,2023-09-27 06:09:33.944362,2023-11-01 06:09:33.944362,False
+11,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Marketing,39,2023-08-07 06:09:33.944366,2023-08-14 06:09:33.944366,True
+12,Audio Equipment,Audio Equipment products,Electronics,Stationary,Sales,37,2023-12-16 06:09:33.944370,2023-12-27 06:09:33.944370,False
+13,Cameras,Cameras products,Electronics,Wearable,Sales,27,2023-07-31 06:09:33.944374,2023-08-21 06:09:33.944374,True
+14,Accessories,Accessories products,Electronics,Stationary,Development,17,2023-08-30 06:09:33.944378,2023-11-15 06:09:33.944378,True
+15,Computers,Computers products,Gadgets,Portable,Marketing,21,2023-11-17 06:09:33.944382,2023-11-29 06:09:33.944382,False
+16,Computers,Computers products,Gadgets,Portable,Development,25,2023-07-23 06:09:33.944386,2023-09-05 06:09:33.944386,False
+17,Computers,Computers products,Electronics,Stationary,Development,29,2023-12-09 06:09:33.944390,2024-01-16 06:09:33.944390,False
+18,Mobile Devices,Mobile Devices products,Electronics,Wearable,Development,2,2023-08-21 06:09:33.944394,2023-10-03 06:09:33.944394,True
+19,Accessories,Accessories products,Electronics,Portable,Marketing,2,2023-12-06 06:09:33.944399,2024-01-26 06:09:33.944399,True
+20,Computers,Computers products,Gadgets,Wearable,Development,17,2023-11-19 06:09:33.944403,2024-01-02 06:09:33.944403,True
+21,Accessories,Accessories products,Gadgets,Wearable,Development,5,2023-11-12 06:09:33.944407,2023-12-28 06:09:33.944407,True
+22,Cameras,Cameras products,Electronics,Wearable,Marketing,50,2024-02-02 06:09:33.944411,2024-03-15 06:09:33.944411,True
+23,Cameras,Cameras products,Electronics,Stationary,Development,11,2023-07-29 06:09:33.944415,2023-08-28 06:09:33.944415,False
+24,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,37,2024-02-26 06:09:33.944419,2024-03-16 06:09:33.944419,True
+25,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,39,2023-07-10 06:09:33.944423,2023-09-22 06:09:33.944423,False
+26,Cameras,Cameras products,Gadgets,Wearable,Marketing,47,2024-02-28 06:09:33.944427,2024-06-04 06:09:33.944427,False
+27,Cameras,Cameras products,Gadgets,Portable,Marketing,30,2023-10-01 06:09:33.944431,2023-11-20 06:09:33.944431,False
+28,Cameras,Cameras products,Electronics,Wearable,Marketing,23,2023-10-01 06:09:33.944435,2023-12-29 06:09:33.944435,False
+29,Cameras,Cameras products,Electronics,Stationary,Marketing,32,2023-11-25 06:09:33.944439,2024-02-06 06:09:33.944439,True
+30,Computers,Computers products,Electronics,Wearable,Sales,20,2023-07-21 06:09:33.944443,2023-09-01 06:09:33.944443,True
+31,Cameras,Cameras products,Gadgets,Portable,Sales,37,2023-10-24 06:09:33.944447,2023-11-29 06:09:33.944447,True
+32,Audio Equipment,Audio Equipment products,Electronics,Portable,Sales,24,2024-01-11 06:09:33.944451,2024-04-08 06:09:33.944451,True
+33,Mobile Devices,Mobile Devices products,Gadgets,Portable,Sales,38,2023-12-24 06:09:33.944455,2024-03-13 06:09:33.944455,True
+34,Accessories,Accessories products,Gadgets,Portable,Development,35,2024-02-17 06:09:33.944459,2024-03-07 06:09:33.944459,True
+35,Cameras,Cameras products,Electronics,Wearable,Sales,39,2023-12-19 06:09:33.944464,2024-02-19 06:09:33.944464,False
+36,Cameras,Cameras products,Electronics,Stationary,Marketing,23,2024-01-26 06:09:33.944468,2024-03-10 06:09:33.944468,False
+37,Mobile Devices,Mobile Devices products,Electronics,Wearable,Sales,43,2023-09-26 06:09:33.944472,2024-01-04 06:09:33.944472,True
+38,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Development,15,2024-02-22 06:09:33.944476,2024-05-23 06:09:33.944476,True
+39,Computers,Computers products,Gadgets,Wearable,Marketing,38,2023-07-20 06:09:33.944480,2023-09-25 06:09:33.944480,False
+40,Cameras,Cameras products,Gadgets,Wearable,Development,41,2023-09-30 06:09:33.944484,2023-11-19 06:09:33.944484,False
+41,Mobile Devices,Mobile Devices products,Electronics,Portable,Marketing,50,2023-09-07 06:09:33.944488,2023-12-02 06:09:33.944488,True
+42,Cameras,Cameras products,Electronics,Portable,Sales,41,2023-08-04 06:09:33.944492,2023-09-13 06:09:33.944492,False
+43,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Marketing,29,2024-01-11 06:09:33.944496,2024-01-25 06:09:33.944496,False
+44,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,26,2023-08-30 06:09:33.944501,2023-10-06 06:09:33.944501,True
+45,Accessories,Accessories products,Gadgets,Wearable,Marketing,40,2023-06-24 06:09:33.944505,2023-07-16 06:09:33.944505,False
+46,Accessories,Accessories products,Electronics,Stationary,Marketing,35,2023-08-14 06:09:33.944510,2023-08-27 06:09:33.944510,False
+47,Accessories,Accessories products,Electronics,Wearable,Marketing,17,2023-06-24 06:09:33.944517,2023-06-25 06:09:33.944517,True
+48,Accessories,Accessories products,Electronics,Portable,Development,15,2023-08-22 06:09:33.944526,2023-10-10 06:09:33.944526,True
+49,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,11,2023-11-14 06:09:33.944534,2024-02-04 06:09:33.944534,True
+50,Accessories,Accessories products,Gadgets,Portable,Sales,13,2024-01-24 06:09:33.944539,2024-03-26 06:09:33.944539,False
+51,Accessories,Accessories products,Electronics,Wearable,Development,18,2024-02-21 06:09:33.944543,2024-04-10 06:09:33.944543,True
+52,Accessories,Accessories products,Gadgets,Portable,Marketing,12,2023-10-22 06:09:33.944548,2024-01-15 06:09:33.944548,False
+53,Accessories,Accessories products,Electronics,Portable,Development,16,2023-12-08 06:09:33.944553,2024-01-05 06:09:33.944553,False
+54,Accessories,Accessories products,Electronics,Stationary,Marketing,22,2023-10-10 06:09:33.944557,2023-12-07 06:09:33.944557,True
+55,Computers,Computers products,Electronics,Wearable,Marketing,28,2023-08-05 06:09:33.944562,2023-09-06 06:09:33.944562,True
+56,Accessories,Accessories products,Gadgets,Stationary,Development,37,2023-07-25 06:09:33.944567,2023-10-02 06:09:33.944567,False
+57,Accessories,Accessories products,Gadgets,Portable,Sales,31,2023-06-28 06:09:33.944571,2023-08-29 06:09:33.944571,True
+58,Mobile Devices,Mobile Devices products,Electronics,Wearable,Sales,4,2023-07-20 06:09:33.944575,2023-09-20 06:09:33.944575,True
+59,Accessories,Accessories products,Electronics,Wearable,Marketing,29,2023-12-13 06:09:33.944579,2024-03-12 06:09:33.944579,True
+60,Accessories,Accessories products,Gadgets,Stationary,Marketing,26,2023-10-06 06:09:33.944583,2024-01-12 06:09:33.944583,True
+61,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Development,29,2023-10-15 06:09:33.944587,2023-11-29 06:09:33.944587,True
+62,Computers,Computers products,Gadgets,Stationary,Sales,5,2023-12-18 06:09:33.944591,2023-12-31 06:09:33.944591,True
+63,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,27,2023-08-31 06:09:33.944595,2023-09-11 06:09:33.944595,False
+64,Cameras,Cameras products,Electronics,Portable,Development,32,2024-01-04 06:09:33.944599,2024-01-30 06:09:33.944599,False
+65,Cameras,Cameras products,Gadgets,Portable,Marketing,29,2023-08-03 06:09:33.944604,2023-09-16 06:09:33.944604,False
+66,Accessories,Accessories products,Gadgets,Stationary,Sales,7,2024-01-15 06:09:33.944608,2024-02-15 06:09:33.944608,False
+67,Computers,Computers products,Electronics,Wearable,Marketing,48,2023-08-28 06:09:33.944612,2023-10-10 06:09:33.944612,False
+68,Accessories,Accessories products,Gadgets,Portable,Marketing,25,2024-01-10 06:09:33.944616,2024-02-13 06:09:33.944616,True
+69,Audio Equipment,Audio Equipment products,Electronics,Wearable,Development,16,2023-08-25 06:09:33.944624,2023-11-21 06:09:33.944624,True
+70,Computers,Computers products,Electronics,Stationary,Sales,49,2023-08-05 06:09:33.944632,2023-11-04 06:09:33.944632,False
+71,Cameras,Cameras products,Electronics,Wearable,Sales,12,2023-11-27 06:09:33.944637,2023-12-25 06:09:33.944637,True
+72,Computers,Computers products,Electronics,Wearable,Development,38,2023-07-25 06:09:33.944642,2023-08-15 06:09:33.944642,True
+73,Cameras,Cameras products,Gadgets,Wearable,Sales,38,2024-02-17 06:09:33.944646,2024-05-25 06:09:33.944646,True
+74,Accessories,Accessories products,Electronics,Stationary,Sales,13,2024-02-25 06:09:33.944650,2024-05-25 06:09:33.944650,False
+75,Computers,Computers products,Gadgets,Portable,Sales,27,2024-03-01 06:09:33.944654,2024-04-22 06:09:33.944654,True
+76,Computers,Computers products,Electronics,Portable,Marketing,6,2023-10-25 06:09:33.944659,2023-12-29 06:09:33.944659,True
+77,Computers,Computers products,Gadgets,Wearable,Sales,15,2024-03-04 06:09:33.944663,2024-03-06 06:09:33.944663,False
+78,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Sales,8,2023-07-12 06:09:33.944668,2023-09-14 06:09:33.944668,False
+79,Cameras,Cameras products,Gadgets,Stationary,Development,48,2023-08-17 06:09:33.944672,2023-10-17 06:09:33.944672,True
+80,Cameras,Cameras products,Electronics,Stationary,Development,40,2023-11-01 06:09:33.944676,2023-12-01 06:09:33.944676,True
+81,Accessories,Accessories products,Electronics,Wearable,Development,18,2023-08-07 06:09:33.944679,2023-10-07 06:09:33.944679,True
+82,Mobile Devices,Mobile Devices products,Gadgets,Portable,Marketing,5,2023-12-13 06:09:33.944683,2024-01-01 06:09:33.944683,True
+83,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Sales,48,2024-01-27 06:09:33.944687,2024-04-06 06:09:33.944687,True
+84,Accessories,Accessories products,Electronics,Portable,Marketing,14,2023-11-12 06:09:33.944692,2023-11-19 06:09:33.944692,True
+85,Accessories,Accessories products,Electronics,Portable,Sales,10,2023-12-05 06:09:33.944696,2024-02-18 06:09:33.944696,False
+86,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,27,2023-11-10 06:09:33.944700,2024-02-03 06:09:33.944700,False
+87,Computers,Computers products,Electronics,Stationary,Marketing,36,2023-10-13 06:09:33.944704,2023-12-20 06:09:33.944704,False
+88,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Marketing,21,2023-10-04 06:09:33.944708,2023-12-26 06:09:33.944708,True
+89,Computers,Computers products,Gadgets,Portable,Development,22,2023-11-12 06:09:33.944713,2023-12-09 06:09:33.944713,False
+90,Computers,Computers products,Electronics,Portable,Sales,45,2024-03-01 06:09:33.944717,2024-06-08 06:09:33.944717,True
+91,Computers,Computers products,Gadgets,Stationary,Marketing,1,2023-12-23 06:09:33.944721,2024-03-26 06:09:33.944721,True
+92,Cameras,Cameras products,Gadgets,Portable,Sales,20,2023-11-16 06:09:33.944725,2024-02-23 06:09:33.944725,True
+93,Cameras,Cameras products,Gadgets,Wearable,Development,16,2023-10-06 06:09:33.944729,2023-12-20 06:09:33.944729,True
+94,Accessories,Accessories products,Electronics,Portable,Marketing,11,2023-12-28 06:09:33.944734,2024-01-01 06:09:33.944734,True
+95,Audio Equipment,Audio Equipment products,Electronics,Stationary,Development,12,2023-08-26 06:09:33.944738,2023-11-14 06:09:33.944738,False
+96,Mobile Devices,Mobile Devices products,Electronics,Wearable,Marketing,32,2023-11-06 06:09:33.944742,2024-01-07 06:09:33.944742,True
+97,Computers,Computers products,Gadgets,Stationary,Marketing,37,2023-09-06 06:09:33.944746,2023-10-28 06:09:33.944746,True
+98,Accessories,Accessories products,Gadgets,Portable,Development,43,2023-11-15 06:09:33.944751,2023-11-17 06:09:33.944751,False
+99,Cameras,Cameras products,Gadgets,Portable,Marketing,26,2023-11-30 06:09:33.944755,2024-03-02 06:09:33.944755,False
+100,Audio Equipment,Audio Equipment products,Electronics,Stationary,Sales,42,2023-12-18 06:09:33.944760,2023-12-19 06:09:33.944760,True
+101,Accessories,Accessories products,Gadgets,Portable,Development,32,2023-09-03 06:09:33.944764,2023-11-04 06:09:33.944764,False
+102,Computers,Computers products,Electronics,Stationary,Sales,47,2023-07-05 06:09:33.944768,2023-08-24 06:09:33.944768,False
+103,Accessories,Accessories products,Gadgets,Wearable,Sales,40,2023-07-12 06:09:33.944772,2023-08-07 06:09:33.944772,True
+104,Cameras,Cameras products,Gadgets,Portable,Sales,38,2023-10-12 06:09:33.944776,2023-11-19 06:09:33.944776,False
+105,Accessories,Accessories products,Electronics,Stationary,Sales,13,2023-06-22 06:09:33.944780,2023-09-20 06:09:33.944780,True
+106,Computers,Computers products,Electronics,Portable,Marketing,11,2023-11-17 06:09:33.944786,2024-02-02 06:09:33.944786,False
+107,Cameras,Cameras products,Electronics,Portable,Sales,20,2023-10-18 06:09:33.944793,2024-01-10 06:09:33.944793,False
+108,Accessories,Accessories products,Gadgets,Portable,Development,17,2024-02-24 06:09:33.944801,2024-05-27 06:09:33.944801,True
+109,Computers,Computers products,Electronics,Stationary,Sales,15,2023-07-09 06:09:33.944806,2023-08-16 06:09:33.944806,True
+110,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Marketing,11,2024-02-03 06:09:33.944811,2024-02-08 06:09:33.944811,False
+111,Accessories,Accessories products,Electronics,Stationary,Marketing,38,2023-09-25 06:09:33.944815,2023-12-28 06:09:33.944815,True
+112,Audio Equipment,Audio Equipment products,Electronics,Stationary,Sales,39,2024-01-22 06:09:33.944819,2024-02-17 06:09:33.944819,True
+113,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,24,2023-09-06 06:09:33.944823,2023-11-18 06:09:33.944823,False
+114,Mobile Devices,Mobile Devices products,Electronics,Portable,Sales,22,2024-01-14 06:09:33.944827,2024-01-15 06:09:33.944827,False
+115,Accessories,Accessories products,Gadgets,Stationary,Sales,19,2024-02-19 06:09:33.944831,2024-04-20 06:09:33.944831,False
+116,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Marketing,10,2023-07-06 06:09:33.944835,2023-07-14 06:09:33.944835,False
+117,Cameras,Cameras products,Electronics,Portable,Sales,20,2023-10-25 06:09:33.944839,2024-01-11 06:09:33.944839,False
+118,Cameras,Cameras products,Electronics,Wearable,Development,43,2024-02-25 06:09:33.944843,2024-05-25 06:09:33.944843,False
+119,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,44,2023-09-08 06:09:33.944848,2023-12-04 06:09:33.944848,True
+120,Computers,Computers products,Electronics,Stationary,Sales,18,2023-10-21 06:09:33.944852,2023-12-08 06:09:33.944852,False
+121,Audio Equipment,Audio Equipment products,Electronics,Wearable,Sales,48,2023-10-14 06:09:33.944856,2023-10-28 06:09:33.944856,False
+122,Cameras,Cameras products,Gadgets,Wearable,Development,2,2023-08-25 06:09:33.944860,2023-11-08 06:09:33.944860,True
+123,Accessories,Accessories products,Gadgets,Stationary,Marketing,45,2024-01-02 06:09:33.944864,2024-03-26 06:09:33.944864,True
+124,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,1,2024-01-22 06:09:33.944868,2024-04-17 06:09:33.944868,False
+125,Computers,Computers products,Gadgets,Wearable,Sales,11,2023-08-04 06:09:33.944872,2023-10-08 06:09:33.944872,False
+126,Cameras,Cameras products,Gadgets,Wearable,Marketing,21,2023-09-18 06:09:33.944876,2023-12-13 06:09:33.944876,True
+127,Cameras,Cameras products,Electronics,Stationary,Development,33,2023-10-28 06:09:33.944880,2023-11-01 06:09:33.944880,True
+128,Audio Equipment,Audio Equipment products,Gadgets,Portable,Sales,39,2024-01-12 06:09:33.944885,2024-01-17 06:09:33.944885,False
+129,Accessories,Accessories products,Electronics,Wearable,Development,41,2023-10-24 06:09:33.944889,2024-01-06 06:09:33.944889,True
+130,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,3,2023-07-15 06:09:33.944893,2023-09-15 06:09:33.944893,True
+131,Audio Equipment,Audio Equipment products,Electronics,Wearable,Development,14,2023-10-16 06:09:33.944898,2024-01-15 06:09:33.944898,False
+132,Cameras,Cameras products,Electronics,Wearable,Sales,18,2024-02-27 06:09:33.944902,2024-04-22 06:09:33.944902,True
+133,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,4,2023-06-22 06:09:33.944906,2023-09-09 06:09:33.944906,True
+134,Computers,Computers products,Gadgets,Portable,Development,2,2023-06-20 06:09:33.944910,2023-06-28 06:09:33.944910,False
+135,Mobile Devices,Mobile Devices products,Electronics,Wearable,Marketing,24,2023-06-30 06:09:33.944914,2023-10-05 06:09:33.944914,True
+136,Audio Equipment,Audio Equipment products,Electronics,Portable,Development,8,2024-02-21 06:09:33.944918,2024-05-14 06:09:33.944918,False
+137,Audio Equipment,Audio Equipment products,Gadgets,Portable,Sales,31,2023-10-12 06:09:33.944922,2023-11-13 06:09:33.944922,False
+138,Computers,Computers products,Gadgets,Wearable,Sales,31,2023-07-10 06:09:33.944926,2023-07-20 06:09:33.944926,False
+139,Computers,Computers products,Electronics,Stationary,Marketing,3,2023-08-06 06:09:33.944930,2023-08-13 06:09:33.944930,False
+140,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,18,2024-03-03 06:09:33.944935,2024-05-19 06:09:33.944935,True
+141,Accessories,Accessories products,Gadgets,Portable,Sales,18,2023-12-28 06:09:33.944939,2024-03-13 06:09:33.944939,False
+142,Computers,Computers products,Electronics,Portable,Sales,35,2023-11-22 06:09:33.944943,2024-01-28 06:09:33.944943,True
+143,Accessories,Accessories products,Gadgets,Stationary,Sales,39,2024-01-29 06:09:33.944947,2024-02-10 06:09:33.944947,True
+144,Computers,Computers products,Gadgets,Portable,Development,9,2023-10-24 06:09:33.944953,2023-11-18 06:09:33.944953,False
+145,Accessories,Accessories products,Electronics,Portable,Marketing,4,2023-11-20 06:09:33.944957,2023-12-31 06:09:33.944957,False
+146,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,45,2023-11-12 06:09:33.944961,2024-01-04 06:09:33.944961,False
+147,Accessories,Accessories products,Electronics,Wearable,Development,50,2023-07-30 06:09:33.944965,2023-10-01 06:09:33.944965,True
+148,Accessories,Accessories products,Gadgets,Wearable,Development,18,2023-11-26 06:09:33.944969,2024-02-03 06:09:33.944969,False
+149,Accessories,Accessories products,Electronics,Stationary,Marketing,28,2024-01-25 06:09:33.944974,2024-04-08 06:09:33.944974,False
+150,Accessories,Accessories products,Gadgets,Portable,Sales,46,2023-09-18 06:09:33.944979,2023-10-03 06:09:33.944979,False
+151,Computers,Computers products,Electronics,Stationary,Marketing,28,2024-02-16 06:09:33.944983,2024-03-10 06:09:33.944983,False
+152,Cameras,Cameras products,Gadgets,Portable,Development,49,2023-09-23 06:09:33.944987,2023-10-04 06:09:33.944987,False
+153,Accessories,Accessories products,Electronics,Portable,Marketing,5,2023-10-07 06:09:33.944991,2023-10-30 06:09:33.944991,True
+154,Accessories,Accessories products,Gadgets,Portable,Development,50,2023-07-02 06:09:33.944995,2023-07-28 06:09:33.944995,True
+155,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Development,6,2023-10-23 06:09:33.944999,2024-01-05 06:09:33.944999,True
+156,Mobile Devices,Mobile Devices products,Electronics,Portable,Sales,8,2023-12-18 06:09:33.945004,2024-02-20 06:09:33.945004,False
+157,Accessories,Accessories products,Gadgets,Portable,Development,18,2023-11-22 06:09:33.945008,2024-02-11 06:09:33.945008,False
+158,Audio Equipment,Audio Equipment products,Electronics,Wearable,Development,5,2023-11-27 06:09:33.945012,2024-02-10 06:09:33.945012,True
+159,Cameras,Cameras products,Gadgets,Portable,Development,47,2023-09-13 06:09:33.945016,2023-12-03 06:09:33.945016,True
+160,Computers,Computers products,Electronics,Stationary,Marketing,26,2024-01-13 06:09:33.945020,2024-03-05 06:09:33.945020,False
+161,Mobile Devices,Mobile Devices products,Electronics,Wearable,Development,11,2023-09-23 06:09:33.945024,2023-12-23 06:09:33.945024,True
+162,Computers,Computers products,Gadgets,Portable,Sales,50,2023-11-20 06:09:33.945028,2024-01-17 06:09:33.945028,False
+163,Audio Equipment,Audio Equipment products,Gadgets,Portable,Development,35,2023-09-25 06:09:33.945032,2023-11-16 06:09:33.945032,True
+164,Computers,Computers products,Electronics,Stationary,Marketing,19,2023-07-02 06:09:33.945036,2023-07-03 06:09:33.945036,False
+165,Mobile Devices,Mobile Devices products,Gadgets,Portable,Sales,37,2023-11-07 06:09:33.945040,2024-01-14 06:09:33.945040,True
+166,Mobile Devices,Mobile Devices products,Gadgets,Portable,Marketing,33,2023-10-31 06:09:33.945044,2024-02-03 06:09:33.945044,True
+167,Computers,Computers products,Electronics,Stationary,Development,1,2023-12-30 06:09:33.945048,2024-02-01 06:09:33.945048,True
+168,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,35,2023-10-08 06:09:33.945052,2023-12-29 06:09:33.945052,True
+169,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Marketing,38,2023-12-17 06:09:33.945056,2024-02-06 06:09:33.945056,True
+170,Mobile Devices,Mobile Devices products,Electronics,Portable,Sales,47,2023-10-10 06:09:33.945060,2023-11-28 06:09:33.945060,False
+171,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Sales,1,2024-03-05 06:09:33.945065,2024-04-29 06:09:33.945065,True
+172,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Development,6,2024-01-30 06:09:33.945069,2024-04-04 06:09:33.945069,True
+173,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Sales,19,2023-11-01 06:09:33.945073,2024-01-10 06:09:33.945073,False
+174,Mobile Devices,Mobile Devices products,Electronics,Portable,Sales,39,2023-11-26 06:09:33.945077,2024-02-08 06:09:33.945077,True
+175,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,21,2024-01-05 06:09:33.945082,2024-04-12 06:09:33.945082,False
+176,Cameras,Cameras products,Gadgets,Wearable,Marketing,7,2023-07-28 06:09:33.945086,2023-09-23 06:09:33.945086,True
+177,Accessories,Accessories products,Electronics,Portable,Marketing,17,2023-12-08 06:09:33.945090,2024-03-02 06:09:33.945090,True
+178,Cameras,Cameras products,Electronics,Stationary,Marketing,20,2023-08-11 06:09:33.945094,2023-09-26 06:09:33.945094,True
+179,Cameras,Cameras products,Gadgets,Stationary,Development,21,2023-08-02 06:09:33.945098,2023-11-08 06:09:33.945098,False
+180,Computers,Computers products,Electronics,Wearable,Sales,43,2023-10-12 06:09:33.945102,2024-01-15 06:09:33.945102,False
+181,Accessories,Accessories products,Gadgets,Wearable,Development,5,2024-01-02 06:09:33.945106,2024-03-04 06:09:33.945106,True
+182,Audio Equipment,Audio Equipment products,Electronics,Portable,Development,24,2024-02-01 06:09:33.945111,2024-05-02 06:09:33.945111,True
+183,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Sales,33,2024-03-04 06:09:33.945115,2024-03-17 06:09:33.945115,True
+184,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,49,2024-01-19 06:09:33.945123,2024-02-02 06:09:33.945123,False
+185,Computers,Computers products,Electronics,Portable,Development,28,2023-12-05 06:09:33.945131,2023-12-23 06:09:33.945131,False
+186,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,23,2023-09-03 06:09:33.945140,2023-10-10 06:09:33.945140,False
+187,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Sales,26,2023-08-24 06:09:33.945148,2023-11-07 06:09:33.945148,False
+188,Mobile Devices,Mobile Devices products,Electronics,Stationary,Development,28,2023-07-11 06:09:33.945155,2023-09-14 06:09:33.945155,False
+189,Cameras,Cameras products,Gadgets,Portable,Development,11,2023-12-21 06:09:33.945159,2024-01-15 06:09:33.945159,True
+190,Computers,Computers products,Gadgets,Portable,Marketing,17,2023-10-24 06:09:33.945164,2023-10-31 06:09:33.945164,False
+191,Cameras,Cameras products,Electronics,Stationary,Development,48,2024-01-26 06:09:33.945168,2024-03-19 06:09:33.945168,True
+192,Computers,Computers products,Electronics,Portable,Development,4,2023-11-02 06:09:33.945172,2024-01-14 06:09:33.945172,False
+193,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Development,41,2024-01-16 06:09:33.945177,2024-03-25 06:09:33.945177,False
+194,Accessories,Accessories products,Electronics,Stationary,Development,20,2023-12-01 06:09:33.945181,2024-01-09 06:09:33.945181,True
+195,Computers,Computers products,Gadgets,Stationary,Sales,1,2024-01-24 06:09:33.945187,2024-02-03 06:09:33.945187,False
+196,Accessories,Accessories products,Electronics,Portable,Marketing,47,2023-12-29 06:09:33.945196,2024-03-07 06:09:33.945196,True
+197,Accessories,Accessories products,Gadgets,Wearable,Marketing,39,2023-11-24 06:09:33.945203,2024-02-28 06:09:33.945203,True
+198,Cameras,Cameras products,Gadgets,Stationary,Marketing,1,2024-03-09 06:09:33.945209,2024-06-09 06:09:33.945209,False
+199,Cameras,Cameras products,Gadgets,Wearable,Development,2,2023-06-21 06:09:33.945213,2023-07-20 06:09:33.945213,False
+200,Accessories,Accessories products,Electronics,Wearable,Sales,5,2023-07-03 06:09:33.945217,2023-09-21 06:09:33.945217,False
+201,Mobile Devices,Mobile Devices products,Electronics,Wearable,Marketing,42,2023-06-27 06:09:33.945221,2023-07-19 06:09:33.945221,False
+202,Cameras,Cameras products,Electronics,Wearable,Development,30,2023-11-22 06:09:33.945226,2024-01-27 06:09:33.945226,True
+203,Computers,Computers products,Gadgets,Portable,Marketing,47,2024-02-17 06:09:33.945230,2024-03-05 06:09:33.945230,True
+204,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Development,50,2023-10-30 06:09:33.945234,2023-12-16 06:09:33.945234,True
+205,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,49,2023-06-30 06:09:33.945238,2023-07-10 06:09:33.945238,False
+206,Audio Equipment,Audio Equipment products,Gadgets,Portable,Development,34,2024-02-20 06:09:33.945242,2024-03-31 06:09:33.945242,True
+207,Cameras,Cameras products,Gadgets,Wearable,Marketing,12,2023-07-30 06:09:33.945246,2023-09-12 06:09:33.945246,True
+208,Audio Equipment,Audio Equipment products,Electronics,Stationary,Marketing,12,2024-01-08 06:09:33.945250,2024-01-12 06:09:33.945250,True
+209,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,12,2024-02-06 06:09:33.945255,2024-02-16 06:09:33.945255,False
+210,Accessories,Accessories products,Electronics,Wearable,Development,40,2023-06-22 06:09:33.945259,2023-06-25 06:09:33.945259,False
+211,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Marketing,31,2023-10-28 06:09:33.945263,2024-01-30 06:09:33.945263,True
+212,Computers,Computers products,Electronics,Portable,Sales,17,2023-11-26 06:09:33.945267,2024-01-23 06:09:33.945267,True
+213,Cameras,Cameras products,Gadgets,Wearable,Development,41,2023-12-21 06:09:33.945271,2024-01-22 06:09:33.945271,True
+214,Accessories,Accessories products,Electronics,Wearable,Sales,47,2023-07-13 06:09:33.945275,2023-08-12 06:09:33.945275,False
+215,Cameras,Cameras products,Electronics,Stationary,Marketing,2,2023-10-29 06:09:33.945279,2024-01-20 06:09:33.945279,False
+216,Mobile Devices,Mobile Devices products,Electronics,Stationary,Marketing,49,2023-12-26 06:09:33.945283,2024-01-29 06:09:33.945283,False
+217,Mobile Devices,Mobile Devices products,Gadgets,Portable,Marketing,33,2023-08-26 06:09:33.945287,2023-11-23 06:09:33.945287,True
+218,Computers,Computers products,Gadgets,Wearable,Development,36,2023-10-28 06:09:33.945293,2023-12-15 06:09:33.945293,False
+219,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Marketing,16,2023-08-20 06:09:33.945302,2023-11-14 06:09:33.945302,True
+220,Cameras,Cameras products,Gadgets,Portable,Sales,22,2023-10-21 06:09:33.945310,2023-12-09 06:09:33.945310,True
+221,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,44,2024-02-27 06:09:33.945318,2024-05-31 06:09:33.945318,False
+222,Computers,Computers products,Gadgets,Stationary,Development,7,2023-09-16 06:09:33.945322,2023-10-05 06:09:33.945322,True
+223,Cameras,Cameras products,Electronics,Wearable,Marketing,31,2023-10-25 06:09:33.945327,2023-11-05 06:09:33.945327,False
+224,Audio Equipment,Audio Equipment products,Gadgets,Portable,Sales,28,2023-11-06 06:09:33.945331,2024-02-13 06:09:33.945331,False
+225,Cameras,Cameras products,Electronics,Wearable,Marketing,40,2023-09-05 06:09:33.945335,2023-09-29 06:09:33.945335,True
+226,Audio Equipment,Audio Equipment products,Gadgets,Portable,Marketing,43,2023-07-16 06:09:33.945339,2023-09-08 06:09:33.945339,False
+227,Accessories,Accessories products,Electronics,Stationary,Marketing,3,2023-08-09 06:09:33.945343,2023-09-02 06:09:33.945343,True
+228,Computers,Computers products,Electronics,Wearable,Marketing,26,2024-01-11 06:09:33.945347,2024-01-16 06:09:33.945347,True
+229,Mobile Devices,Mobile Devices products,Electronics,Wearable,Sales,43,2023-12-10 06:09:33.945351,2024-02-25 06:09:33.945351,False
+230,Cameras,Cameras products,Electronics,Portable,Marketing,36,2024-02-27 06:09:33.945355,2024-04-13 06:09:33.945355,True
+231,Accessories,Accessories products,Electronics,Portable,Marketing,8,2024-02-20 06:09:33.945359,2024-05-23 06:09:33.945359,False
+232,Accessories,Accessories products,Electronics,Stationary,Development,49,2023-12-31 06:09:33.945363,2024-01-08 06:09:33.945363,False
+233,Cameras,Cameras products,Gadgets,Wearable,Sales,3,2023-09-22 06:09:33.945367,2023-12-04 06:09:33.945367,True
+234,Mobile Devices,Mobile Devices products,Electronics,Wearable,Marketing,8,2023-11-01 06:09:33.945372,2024-02-03 06:09:33.945372,False
+235,Audio Equipment,Audio Equipment products,Electronics,Stationary,Development,4,2024-01-22 06:09:33.945376,2024-04-16 06:09:33.945376,True
+236,Audio Equipment,Audio Equipment products,Gadgets,Portable,Sales,28,2023-10-18 06:09:33.945380,2023-11-26 06:09:33.945380,False
+237,Accessories,Accessories products,Gadgets,Wearable,Sales,5,2024-01-31 06:09:33.945384,2024-02-22 06:09:33.945384,False
+238,Computers,Computers products,Gadgets,Wearable,Development,36,2024-01-26 06:09:33.945389,2024-02-09 06:09:33.945389,True
+239,Accessories,Accessories products,Gadgets,Portable,Sales,33,2023-08-28 06:09:33.945393,2023-10-09 06:09:33.945393,True
+240,Cameras,Cameras products,Electronics,Portable,Development,6,2024-01-29 06:09:33.945397,2024-02-27 06:09:33.945397,False
+241,Cameras,Cameras products,Electronics,Stationary,Development,3,2024-01-06 06:09:33.945402,2024-04-08 06:09:33.945402,True
+242,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Marketing,27,2023-08-16 06:09:33.945406,2023-09-23 06:09:33.945406,False
+243,Accessories,Accessories products,Gadgets,Portable,Development,10,2023-10-03 06:09:33.945410,2023-10-06 06:09:33.945410,False
+244,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,19,2023-07-09 06:09:33.945414,2023-07-27 06:09:33.945414,False
+245,Mobile Devices,Mobile Devices products,Electronics,Stationary,Marketing,27,2023-07-11 06:09:33.945418,2023-09-09 06:09:33.945418,True
+246,Computers,Computers products,Electronics,Portable,Marketing,11,2023-07-31 06:09:33.945422,2023-10-29 06:09:33.945422,True
+247,Computers,Computers products,Electronics,Stationary,Development,5,2023-12-29 06:09:33.945428,2024-03-06 06:09:33.945428,True
+248,Cameras,Cameras products,Gadgets,Stationary,Sales,50,2023-07-01 06:09:33.945432,2023-09-27 06:09:33.945432,False
+249,Computers,Computers products,Gadgets,Portable,Development,23,2023-10-10 06:09:33.945436,2023-12-01 06:09:33.945436,False
+250,Audio Equipment,Audio Equipment products,Gadgets,Portable,Development,13,2023-07-23 06:09:33.945441,2023-10-23 06:09:33.945441,False
+251,Cameras,Cameras products,Gadgets,Stationary,Sales,4,2024-03-03 06:09:33.945445,2024-03-09 06:09:33.945445,True
+252,Cameras,Cameras products,Gadgets,Portable,Sales,50,2023-07-14 06:09:33.945449,2023-08-06 06:09:33.945449,False
+253,Accessories,Accessories products,Electronics,Stationary,Marketing,28,2023-07-22 06:09:33.945453,2023-08-19 06:09:33.945453,False
+254,Accessories,Accessories products,Electronics,Portable,Development,28,2024-03-10 06:09:33.945457,2024-05-26 06:09:33.945457,True
+255,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,7,2024-01-06 06:09:33.945461,2024-03-01 06:09:33.945461,False
+256,Accessories,Accessories products,Gadgets,Portable,Development,4,2023-08-14 06:09:33.945465,2023-11-01 06:09:33.945465,True
+257,Cameras,Cameras products,Electronics,Portable,Marketing,48,2023-07-26 06:09:33.945469,2023-10-25 06:09:33.945469,True
+258,Mobile Devices,Mobile Devices products,Electronics,Portable,Development,14,2023-07-27 06:09:33.945474,2023-10-27 06:09:33.945474,False
+259,Accessories,Accessories products,Electronics,Stationary,Marketing,45,2024-02-11 06:09:33.945478,2024-04-18 06:09:33.945478,True
+260,Audio Equipment,Audio Equipment products,Electronics,Wearable,Sales,15,2023-07-31 06:09:33.945482,2023-09-22 06:09:33.945482,False
+261,Computers,Computers products,Gadgets,Wearable,Marketing,2,2023-09-25 06:09:33.945486,2023-10-13 06:09:33.945486,False
+262,Cameras,Cameras products,Electronics,Stationary,Marketing,19,2023-07-21 06:09:33.945490,2023-08-25 06:09:33.945490,True
+263,Accessories,Accessories products,Gadgets,Wearable,Sales,3,2023-11-10 06:09:33.945494,2024-01-09 06:09:33.945494,True
+264,Mobile Devices,Mobile Devices products,Electronics,Portable,Sales,16,2023-09-07 06:09:33.945498,2023-10-19 06:09:33.945498,False
+265,Cameras,Cameras products,Electronics,Stationary,Marketing,41,2023-08-21 06:09:33.945503,2023-11-07 06:09:33.945503,True
+266,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Sales,29,2024-01-31 06:09:33.945507,2024-04-17 06:09:33.945507,True
+267,Accessories,Accessories products,Electronics,Portable,Sales,6,2023-11-08 06:09:33.945511,2024-01-14 06:09:33.945511,False
+268,Computers,Computers products,Gadgets,Wearable,Development,34,2023-08-22 06:09:33.945515,2023-11-27 06:09:33.945515,False
+269,Cameras,Cameras products,Electronics,Wearable,Sales,21,2023-09-11 06:09:33.945520,2023-11-09 06:09:33.945520,False
+270,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,28,2024-02-27 06:09:33.945524,2024-03-11 06:09:33.945524,True
+271,Audio Equipment,Audio Equipment products,Electronics,Stationary,Development,28,2023-07-13 06:09:33.945528,2023-10-16 06:09:33.945528,True
+272,Cameras,Cameras products,Electronics,Portable,Marketing,12,2023-10-23 06:09:33.945532,2023-12-03 06:09:33.945532,True
+273,Audio Equipment,Audio Equipment products,Electronics,Stationary,Development,5,2023-09-03 06:09:33.945536,2023-10-28 06:09:33.945536,True
+274,Accessories,Accessories products,Electronics,Wearable,Sales,18,2023-07-13 06:09:33.945540,2023-07-20 06:09:33.945540,False
+275,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Development,32,2023-12-15 06:09:33.945544,2024-03-06 06:09:33.945544,False
+276,Cameras,Cameras products,Electronics,Stationary,Sales,21,2024-02-29 06:09:33.945548,2024-05-01 06:09:33.945548,False
+277,Cameras,Cameras products,Gadgets,Stationary,Marketing,47,2023-07-27 06:09:33.945552,2023-08-28 06:09:33.945552,True
+278,Audio Equipment,Audio Equipment products,Electronics,Stationary,Development,44,2023-09-12 06:09:33.945556,2023-10-08 06:09:33.945556,True
+279,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,45,2023-12-14 06:09:33.945560,2024-03-11 06:09:33.945560,True
+280,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,37,2024-02-03 06:09:33.945565,2024-04-07 06:09:33.945565,False
+281,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Sales,30,2023-09-03 06:09:33.945568,2023-10-27 06:09:33.945568,True
+282,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,12,2024-02-02 06:09:33.945572,2024-02-17 06:09:33.945572,False
+283,Mobile Devices,Mobile Devices products,Electronics,Wearable,Marketing,38,2023-07-12 06:09:33.945576,2023-08-31 06:09:33.945576,True
+284,Accessories,Accessories products,Electronics,Wearable,Development,45,2023-08-07 06:09:33.945581,2023-11-11 06:09:33.945581,False
+285,Accessories,Accessories products,Gadgets,Portable,Development,2,2023-11-23 06:09:33.945585,2023-12-17 06:09:33.945585,False
+286,Accessories,Accessories products,Electronics,Stationary,Marketing,1,2023-09-14 06:09:33.945592,2023-11-17 06:09:33.945592,True
+287,Accessories,Accessories products,Electronics,Wearable,Development,30,2024-02-20 06:09:33.945600,2024-04-24 06:09:33.945600,False
+288,Computers,Computers products,Electronics,Stationary,Development,3,2023-08-03 06:09:33.945606,2023-10-23 06:09:33.945606,False
+289,Computers,Computers products,Gadgets,Stationary,Marketing,14,2023-09-20 06:09:33.945611,2023-10-28 06:09:33.945611,True
+290,Accessories,Accessories products,Electronics,Stationary,Development,7,2023-12-18 06:09:33.945615,2024-01-20 06:09:33.945615,True
+291,Mobile Devices,Mobile Devices products,Electronics,Wearable,Marketing,49,2023-11-23 06:09:33.945619,2023-12-29 06:09:33.945619,False
+292,Accessories,Accessories products,Gadgets,Wearable,Sales,49,2023-08-22 06:09:33.945623,2023-10-23 06:09:33.945623,True
+293,Mobile Devices,Mobile Devices products,Gadgets,Portable,Sales,24,2023-07-01 06:09:33.945627,2023-08-09 06:09:33.945627,True
+294,Computers,Computers products,Electronics,Stationary,Development,37,2023-07-14 06:09:33.945632,2023-09-06 06:09:33.945632,True
+295,Computers,Computers products,Gadgets,Stationary,Marketing,33,2023-08-19 06:09:33.945636,2023-10-14 06:09:33.945636,False
+296,Computers,Computers products,Gadgets,Wearable,Sales,15,2023-08-04 06:09:33.945640,2023-10-08 06:09:33.945640,False
+297,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Marketing,29,2023-12-12 06:09:33.945644,2023-12-30 06:09:33.945644,True
+298,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,39,2024-01-21 06:09:33.945648,2024-04-13 06:09:33.945648,False
+299,Audio Equipment,Audio Equipment products,Electronics,Stationary,Development,49,2023-11-25 06:09:33.945652,2024-01-25 06:09:33.945652,True
+300,Mobile Devices,Mobile Devices products,Electronics,Portable,Development,38,2023-08-09 06:09:33.945656,2023-09-07 06:09:33.945656,False
+301,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Sales,50,2023-06-19 06:09:33.945661,2023-08-17 06:09:33.945661,False
+302,Cameras,Cameras products,Electronics,Wearable,Marketing,19,2024-02-24 06:09:33.945665,2024-04-07 06:09:33.945665,True
+303,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,15,2023-09-17 06:09:33.945669,2023-11-17 06:09:33.945669,False
+304,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Sales,11,2023-12-22 06:09:33.945673,2024-03-24 06:09:33.945673,False
+305,Cameras,Cameras products,Gadgets,Portable,Marketing,26,2023-09-28 06:09:33.945677,2023-10-26 06:09:33.945677,False
+306,Audio Equipment,Audio Equipment products,Electronics,Wearable,Development,49,2023-07-01 06:09:33.945682,2023-09-06 06:09:33.945682,True
+307,Computers,Computers products,Gadgets,Wearable,Marketing,12,2023-08-07 06:09:33.945686,2023-10-18 06:09:33.945686,True
+308,Accessories,Accessories products,Electronics,Portable,Sales,3,2023-12-18 06:09:33.945691,2024-03-06 06:09:33.945691,False
+309,Audio Equipment,Audio Equipment products,Electronics,Portable,Development,35,2023-11-18 06:09:33.945699,2024-01-23 06:09:33.945699,True
+310,Computers,Computers products,Electronics,Portable,Development,11,2023-09-08 06:09:33.945707,2023-11-13 06:09:33.945707,True
+311,Accessories,Accessories products,Electronics,Portable,Sales,37,2023-11-06 06:09:33.945712,2024-02-10 06:09:33.945712,True
+312,Mobile Devices,Mobile Devices products,Electronics,Portable,Sales,25,2023-06-28 06:09:33.945717,2023-07-13 06:09:33.945717,False
+313,Cameras,Cameras products,Gadgets,Wearable,Sales,11,2024-01-11 06:09:33.945721,2024-04-01 06:09:33.945721,False
+314,Computers,Computers products,Electronics,Wearable,Development,41,2024-01-26 06:09:33.945725,2024-04-29 06:09:33.945725,True
+315,Accessories,Accessories products,Gadgets,Portable,Sales,42,2023-09-09 06:09:33.945729,2023-12-11 06:09:33.945729,True
+316,Audio Equipment,Audio Equipment products,Electronics,Stationary,Sales,27,2023-11-28 06:09:33.945733,2024-02-02 06:09:33.945733,True
+317,Mobile Devices,Mobile Devices products,Electronics,Wearable,Development,46,2023-08-13 06:09:33.945737,2023-08-28 06:09:33.945737,True
+318,Computers,Computers products,Gadgets,Portable,Marketing,45,2023-12-22 06:09:33.945741,2024-03-05 06:09:33.945741,True
+319,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,17,2023-08-24 06:09:33.945745,2023-10-14 06:09:33.945745,False
+320,Mobile Devices,Mobile Devices products,Gadgets,Portable,Marketing,28,2024-02-23 06:09:33.945749,2024-03-20 06:09:33.945749,True
+321,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,37,2024-02-09 06:09:33.945753,2024-02-20 06:09:33.945753,True
+322,Cameras,Cameras products,Electronics,Wearable,Sales,20,2023-12-05 06:09:33.945757,2023-12-30 06:09:33.945757,False
+323,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,18,2023-09-11 06:09:33.945761,2023-10-03 06:09:33.945761,True
+324,Cameras,Cameras products,Electronics,Portable,Development,39,2023-06-25 06:09:33.945766,2023-09-08 06:09:33.945766,True
+325,Accessories,Accessories products,Electronics,Portable,Marketing,35,2023-07-30 06:09:33.945770,2023-09-17 06:09:33.945770,False
+326,Computers,Computers products,Gadgets,Stationary,Sales,32,2024-02-02 06:09:33.945774,2024-03-02 06:09:33.945774,True
+327,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Sales,24,2024-01-12 06:09:33.945778,2024-03-29 06:09:33.945778,True
+328,Computers,Computers products,Electronics,Portable,Marketing,31,2023-12-20 06:09:33.945782,2024-01-15 06:09:33.945782,True
+329,Mobile Devices,Mobile Devices products,Electronics,Stationary,Development,7,2023-06-22 06:09:33.945786,2023-07-20 06:09:33.945786,True
+330,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,34,2023-10-08 06:09:33.945790,2023-12-08 06:09:33.945790,False
+331,Cameras,Cameras products,Electronics,Portable,Development,36,2023-09-20 06:09:33.945795,2023-12-23 06:09:33.945795,False
+332,Cameras,Cameras products,Gadgets,Wearable,Marketing,21,2023-09-19 06:09:33.945799,2023-11-28 06:09:33.945799,True
+333,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,11,2023-08-10 06:09:33.945803,2023-09-16 06:09:33.945803,True
+334,Cameras,Cameras products,Electronics,Stationary,Sales,25,2023-08-15 06:09:33.945807,2023-08-20 06:09:33.945807,True
+335,Audio Equipment,Audio Equipment products,Gadgets,Portable,Marketing,45,2024-03-08 06:09:33.945811,2024-05-29 06:09:33.945811,True
+336,Computers,Computers products,Gadgets,Stationary,Sales,31,2023-07-05 06:09:33.945815,2023-09-28 06:09:33.945815,False
+337,Cameras,Cameras products,Electronics,Wearable,Marketing,24,2023-07-20 06:09:33.945820,2023-08-14 06:09:33.945820,True
+338,Accessories,Accessories products,Electronics,Portable,Marketing,5,2023-08-06 06:09:33.945824,2023-08-22 06:09:33.945824,False
+339,Computers,Computers products,Gadgets,Portable,Development,37,2023-09-24 06:09:33.945828,2023-10-29 06:09:33.945828,False
+340,Accessories,Accessories products,Electronics,Wearable,Development,25,2024-02-12 06:09:33.945832,2024-03-26 06:09:33.945832,True
+341,Cameras,Cameras products,Electronics,Stationary,Marketing,22,2023-11-27 06:09:33.945836,2023-12-03 06:09:33.945836,True
+342,Computers,Computers products,Electronics,Wearable,Marketing,46,2023-11-07 06:09:33.945840,2023-12-10 06:09:33.945840,False
+343,Cameras,Cameras products,Electronics,Portable,Marketing,16,2023-12-18 06:09:33.945844,2023-12-23 06:09:33.945844,False
+344,Cameras,Cameras products,Electronics,Wearable,Marketing,29,2023-07-20 06:09:33.945848,2023-10-05 06:09:33.945848,False
+345,Computers,Computers products,Gadgets,Stationary,Sales,39,2023-09-25 06:09:33.945852,2023-10-05 06:09:33.945852,True
+346,Accessories,Accessories products,Electronics,Stationary,Development,32,2023-10-11 06:09:33.945860,2023-10-12 06:09:33.945860,False
+347,Mobile Devices,Mobile Devices products,Electronics,Wearable,Development,46,2023-10-18 06:09:33.945868,2023-11-24 06:09:33.945868,False
+348,Cameras,Cameras products,Electronics,Stationary,Marketing,16,2023-10-26 06:09:33.945874,2023-10-31 06:09:33.945874,True
+349,Accessories,Accessories products,Gadgets,Stationary,Development,29,2023-09-05 06:09:33.945878,2023-12-06 06:09:33.945878,False
+350,Audio Equipment,Audio Equipment products,Gadgets,Portable,Marketing,12,2023-10-08 06:09:33.945883,2023-12-12 06:09:33.945883,False
+351,Cameras,Cameras products,Electronics,Stationary,Development,15,2024-03-03 06:09:33.945887,2024-05-03 06:09:33.945887,False
+352,Mobile Devices,Mobile Devices products,Electronics,Portable,Marketing,4,2023-10-10 06:09:33.945891,2023-12-08 06:09:33.945891,True
+353,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,37,2023-11-16 06:09:33.945896,2024-02-02 06:09:33.945896,True
+354,Audio Equipment,Audio Equipment products,Electronics,Portable,Sales,6,2023-11-12 06:09:33.945900,2023-12-26 06:09:33.945900,True
+355,Audio Equipment,Audio Equipment products,Electronics,Portable,Development,3,2023-10-08 06:09:33.945905,2023-12-30 06:09:33.945905,False
+356,Computers,Computers products,Electronics,Stationary,Sales,27,2023-09-05 06:09:33.945909,2023-10-27 06:09:33.945909,True
+357,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,34,2023-10-20 06:09:33.945913,2023-10-21 06:09:33.945913,False
+358,Accessories,Accessories products,Gadgets,Wearable,Development,4,2023-07-31 06:09:33.945917,2023-10-17 06:09:33.945917,False
+359,Computers,Computers products,Gadgets,Wearable,Marketing,41,2023-08-02 06:09:33.945921,2023-08-21 06:09:33.945921,False
+360,Cameras,Cameras products,Electronics,Stationary,Sales,7,2023-08-26 06:09:33.945926,2023-08-30 06:09:33.945926,False
+361,Mobile Devices,Mobile Devices products,Gadgets,Portable,Sales,38,2024-01-30 06:09:33.945930,2024-02-04 06:09:33.945930,False
+362,Audio Equipment,Audio Equipment products,Electronics,Portable,Development,11,2023-12-21 06:09:33.945935,2024-01-22 06:09:33.945935,False
+363,Mobile Devices,Mobile Devices products,Gadgets,Portable,Marketing,25,2024-01-25 06:09:33.945939,2024-03-06 06:09:33.945939,False
+364,Computers,Computers products,Gadgets,Wearable,Development,32,2023-07-13 06:09:33.945943,2023-08-12 06:09:33.945943,True
+365,Computers,Computers products,Electronics,Portable,Development,33,2023-11-13 06:09:33.945947,2024-02-07 06:09:33.945947,True
+366,Computers,Computers products,Electronics,Portable,Sales,25,2024-01-07 06:09:33.945952,2024-03-23 06:09:33.945952,False
+367,Computers,Computers products,Electronics,Wearable,Development,4,2023-08-12 06:09:33.945956,2023-08-22 06:09:33.945956,False
+368,Computers,Computers products,Electronics,Portable,Marketing,48,2023-07-07 06:09:33.945960,2023-09-11 06:09:33.945960,False
+369,Accessories,Accessories products,Electronics,Stationary,Development,34,2023-08-30 06:09:33.945965,2023-12-06 06:09:33.945965,True
+370,Computers,Computers products,Gadgets,Stationary,Development,1,2023-06-20 06:09:33.946060,2023-07-31 06:09:33.946060,False
+371,Cameras,Cameras products,Electronics,Portable,Marketing,8,2024-01-11 06:09:33.946066,2024-02-27 06:09:33.946066,True
+372,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,46,2023-07-20 06:09:33.946071,2023-07-28 06:09:33.946071,True
+373,Audio Equipment,Audio Equipment products,Electronics,Stationary,Marketing,34,2023-09-19 06:09:33.946075,2023-09-20 06:09:33.946075,True
+374,Accessories,Accessories products,Gadgets,Stationary,Marketing,32,2023-06-27 06:09:33.946079,2023-08-13 06:09:33.946079,False
+375,Cameras,Cameras products,Gadgets,Wearable,Sales,2,2023-07-18 06:09:33.946084,2023-08-26 06:09:33.946084,True
+376,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,4,2024-03-05 06:09:33.946088,2024-04-11 06:09:33.946088,False
+377,Accessories,Accessories products,Electronics,Wearable,Development,45,2024-02-07 06:09:33.946092,2024-02-12 06:09:33.946092,True
+378,Computers,Computers products,Gadgets,Wearable,Marketing,25,2024-01-29 06:09:33.946096,2024-02-27 06:09:33.946096,False
+379,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Development,30,2023-12-22 06:09:33.946101,2024-02-29 06:09:33.946101,False
+380,Computers,Computers products,Gadgets,Wearable,Development,41,2023-10-27 06:09:33.946105,2024-01-18 06:09:33.946105,False
+381,Cameras,Cameras products,Electronics,Wearable,Development,15,2023-08-01 06:09:33.946109,2023-10-04 06:09:33.946109,False
+382,Accessories,Accessories products,Gadgets,Stationary,Sales,18,2024-02-28 06:09:33.946113,2024-05-19 06:09:33.946113,False
+383,Accessories,Accessories products,Electronics,Portable,Marketing,40,2023-07-20 06:09:33.946117,2023-08-14 06:09:33.946117,False
+384,Accessories,Accessories products,Gadgets,Stationary,Sales,17,2024-02-12 06:09:33.946121,2024-02-17 06:09:33.946121,False
+385,Computers,Computers products,Gadgets,Wearable,Sales,2,2023-11-29 06:09:33.946125,2023-12-27 06:09:33.946125,True
+386,Audio Equipment,Audio Equipment products,Electronics,Stationary,Development,32,2023-12-22 06:09:33.946130,2024-01-13 06:09:33.946130,True
+387,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Marketing,20,2023-09-27 06:09:33.946134,2023-10-09 06:09:33.946134,False
+388,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,30,2023-09-03 06:09:33.946138,2023-10-28 06:09:33.946138,False
+389,Cameras,Cameras products,Electronics,Stationary,Sales,14,2023-08-20 06:09:33.946142,2023-10-04 06:09:33.946142,False
+390,Audio Equipment,Audio Equipment products,Gadgets,Portable,Development,31,2024-02-06 06:09:33.946146,2024-03-24 06:09:33.946146,True
+391,Computers,Computers products,Gadgets,Wearable,Marketing,7,2023-10-24 06:09:33.946150,2024-01-24 06:09:33.946150,False
+392,Audio Equipment,Audio Equipment products,Electronics,Portable,Sales,26,2023-07-12 06:09:33.946154,2023-08-01 06:09:33.946154,False
+393,Mobile Devices,Mobile Devices products,Electronics,Stationary,Development,23,2024-03-06 06:09:33.946158,2024-04-02 06:09:33.946158,True
+394,Cameras,Cameras products,Electronics,Portable,Marketing,5,2023-11-01 06:09:33.946171,2023-12-27 06:09:33.946171,True
+395,Accessories,Accessories products,Gadgets,Stationary,Marketing,44,2023-08-23 06:09:33.946176,2023-10-01 06:09:33.946176,True
+396,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Development,27,2023-12-28 06:09:33.946180,2024-02-19 06:09:33.946180,False
+397,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Development,11,2023-07-23 06:09:33.946185,2023-10-29 06:09:33.946185,False
+398,Accessories,Accessories products,Gadgets,Wearable,Sales,7,2024-02-24 06:09:33.946189,2024-06-02 06:09:33.946189,True
+399,Cameras,Cameras products,Electronics,Wearable,Marketing,29,2024-03-09 06:09:33.946195,2024-03-12 06:09:33.946195,False
+400,Computers,Computers products,Gadgets,Portable,Development,21,2023-11-06 06:09:33.946203,2023-12-21 06:09:33.946203,False
+401,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Sales,11,2024-01-18 06:09:33.946211,2024-04-21 06:09:33.946211,True
+402,Audio Equipment,Audio Equipment products,Electronics,Stationary,Marketing,35,2023-10-19 06:09:33.946222,2024-01-20 06:09:33.946222,True
+403,Cameras,Cameras products,Electronics,Stationary,Marketing,45,2023-09-04 06:09:33.946230,2023-09-12 06:09:33.946230,True
+404,Accessories,Accessories products,Gadgets,Stationary,Development,45,2023-08-22 06:09:33.946234,2023-08-31 06:09:33.946234,False
+405,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,49,2023-07-09 06:09:33.946238,2023-08-19 06:09:33.946238,True
+406,Computers,Computers products,Gadgets,Stationary,Marketing,45,2023-06-24 06:09:33.946242,2023-09-16 06:09:33.946242,False
+407,Mobile Devices,Mobile Devices products,Electronics,Wearable,Development,3,2024-03-05 06:09:33.946246,2024-04-22 06:09:33.946246,True
+408,Cameras,Cameras products,Electronics,Wearable,Marketing,22,2023-10-11 06:09:33.946250,2023-11-08 06:09:33.946250,False
+409,Accessories,Accessories products,Gadgets,Portable,Development,40,2023-09-18 06:09:33.946254,2023-11-12 06:09:33.946254,True
+410,Accessories,Accessories products,Electronics,Portable,Sales,27,2023-12-21 06:09:33.946259,2024-02-04 06:09:33.946259,True
+411,Cameras,Cameras products,Gadgets,Stationary,Sales,16,2023-06-21 06:09:33.946263,2023-07-11 06:09:33.946263,True
+412,Mobile Devices,Mobile Devices products,Electronics,Stationary,Marketing,18,2023-11-16 06:09:33.946267,2023-12-15 06:09:33.946267,True
+413,Accessories,Accessories products,Gadgets,Portable,Sales,34,2023-12-26 06:09:33.946271,2024-03-08 06:09:33.946271,True
+414,Computers,Computers products,Gadgets,Portable,Development,34,2024-03-06 06:09:33.946277,2024-03-07 06:09:33.946277,False
+415,Cameras,Cameras products,Electronics,Wearable,Marketing,16,2023-09-16 06:09:33.946285,2023-12-12 06:09:33.946285,False
+416,Cameras,Cameras products,Gadgets,Stationary,Development,45,2023-06-25 06:09:33.946294,2023-09-29 06:09:33.946294,True
+417,Accessories,Accessories products,Electronics,Wearable,Marketing,11,2023-12-14 06:09:33.946300,2024-02-20 06:09:33.946300,False
+418,Cameras,Cameras products,Gadgets,Wearable,Sales,32,2024-01-24 06:09:33.946305,2024-03-25 06:09:33.946305,False
+419,Accessories,Accessories products,Electronics,Wearable,Development,5,2024-03-10 06:09:33.946309,2024-06-11 06:09:33.946309,True
+420,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Sales,48,2024-02-28 06:09:33.946313,2024-04-23 06:09:33.946313,True
+421,Cameras,Cameras products,Electronics,Stationary,Marketing,36,2023-12-31 06:09:33.946317,2024-02-28 06:09:33.946317,False
+422,Accessories,Accessories products,Gadgets,Stationary,Marketing,5,2023-06-26 06:09:33.946321,2023-08-25 06:09:33.946321,True
+423,Cameras,Cameras products,Electronics,Wearable,Sales,18,2024-02-08 06:09:33.946325,2024-04-09 06:09:33.946325,True
+424,Audio Equipment,Audio Equipment products,Electronics,Portable,Sales,35,2023-10-21 06:09:33.946329,2023-11-18 06:09:33.946329,False
+425,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Marketing,10,2024-01-04 06:09:33.946333,2024-01-28 06:09:33.946333,True
+426,Cameras,Cameras products,Electronics,Portable,Development,31,2023-09-06 06:09:33.946337,2023-11-24 06:09:33.946337,False
+427,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,34,2023-07-23 06:09:33.946342,2023-09-05 06:09:33.946342,True
+428,Cameras,Cameras products,Electronics,Portable,Development,42,2024-01-25 06:09:33.946346,2024-03-27 06:09:33.946346,True
+429,Computers,Computers products,Gadgets,Wearable,Development,40,2023-10-08 06:09:33.946354,2023-11-16 06:09:33.946354,True
+430,Computers,Computers products,Gadgets,Portable,Sales,42,2024-03-02 06:09:33.946361,2024-05-07 06:09:33.946361,False
+431,Accessories,Accessories products,Gadgets,Wearable,Development,35,2024-01-05 06:09:33.946370,2024-03-13 06:09:33.946370,True
+432,Mobile Devices,Mobile Devices products,Electronics,Stationary,Development,40,2024-02-08 06:09:33.946377,2024-02-27 06:09:33.946377,True
+433,Accessories,Accessories products,Gadgets,Portable,Sales,33,2023-10-06 06:09:33.946382,2023-10-23 06:09:33.946382,False
+434,Cameras,Cameras products,Electronics,Wearable,Development,15,2023-10-09 06:09:33.946386,2023-11-03 06:09:33.946386,False
+435,Cameras,Cameras products,Gadgets,Wearable,Sales,13,2023-11-11 06:09:33.946391,2023-12-26 06:09:33.946391,False
+436,Accessories,Accessories products,Electronics,Portable,Development,34,2023-07-04 06:09:33.946443,2023-08-23 06:09:33.946443,True
+437,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,42,2024-01-11 06:09:33.946449,2024-01-25 06:09:33.946449,True
+438,Accessories,Accessories products,Gadgets,Wearable,Sales,22,2024-01-21 06:09:33.946454,2024-04-17 06:09:33.946454,False
+439,Accessories,Accessories products,Gadgets,Stationary,Development,7,2023-07-24 06:09:33.946458,2023-09-20 06:09:33.946458,False
+440,Cameras,Cameras products,Electronics,Stationary,Marketing,1,2023-10-14 06:09:33.946462,2023-11-29 06:09:33.946462,False
+441,Mobile Devices,Mobile Devices products,Electronics,Stationary,Sales,43,2023-09-01 06:09:33.946466,2023-09-10 06:09:33.946466,True
+442,Computers,Computers products,Gadgets,Wearable,Marketing,3,2023-10-22 06:09:33.946470,2024-01-04 06:09:33.946470,False
+443,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Sales,2,2023-11-02 06:09:33.946474,2024-02-05 06:09:33.946474,False
+444,Accessories,Accessories products,Gadgets,Stationary,Sales,21,2023-10-13 06:09:33.946480,2023-10-18 06:09:33.946480,True
+445,Computers,Computers products,Electronics,Portable,Sales,47,2024-01-18 06:09:33.946484,2024-02-28 06:09:33.946484,False
+446,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Development,37,2023-12-14 06:09:33.946488,2024-02-03 06:09:33.946488,True
+447,Accessories,Accessories products,Gadgets,Portable,Development,12,2023-12-09 06:09:33.946492,2023-12-18 06:09:33.946492,True
+448,Accessories,Accessories products,Gadgets,Portable,Sales,6,2023-09-03 06:09:33.946497,2023-11-25 06:09:33.946497,True
+449,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,45,2023-12-11 06:09:33.946502,2023-12-25 06:09:33.946502,False
+450,Mobile Devices,Mobile Devices products,Electronics,Wearable,Development,32,2023-06-22 06:09:33.946505,2023-08-01 06:09:33.946505,False
+451,Cameras,Cameras products,Gadgets,Wearable,Marketing,9,2023-08-24 06:09:33.946511,2023-10-20 06:09:33.946511,False
+452,Cameras,Cameras products,Gadgets,Wearable,Development,9,2023-07-07 06:09:33.946519,2023-09-28 06:09:33.946519,True
+453,Audio Equipment,Audio Equipment products,Electronics,Portable,Development,48,2023-10-14 06:09:33.946528,2024-01-01 06:09:33.946528,False
+454,Computers,Computers products,Electronics,Stationary,Development,36,2024-02-06 06:09:33.946534,2024-04-15 06:09:33.946534,False
+455,Audio Equipment,Audio Equipment products,Gadgets,Stationary,Marketing,42,2024-02-24 06:09:33.946538,2024-04-19 06:09:33.946538,False
+456,Accessories,Accessories products,Electronics,Wearable,Sales,21,2024-02-13 06:09:33.946542,2024-02-27 06:09:33.946542,True
+457,Computers,Computers products,Gadgets,Portable,Marketing,17,2023-07-26 06:09:33.946546,2023-11-01 06:09:33.946546,False
+458,Cameras,Cameras products,Electronics,Portable,Marketing,20,2023-12-08 06:09:33.946553,2023-12-29 06:09:33.946553,False
+459,Computers,Computers products,Gadgets,Stationary,Development,12,2023-09-20 06:09:33.946557,2023-12-25 06:09:33.946557,False
+460,Cameras,Cameras products,Electronics,Wearable,Marketing,40,2023-08-15 06:09:33.946561,2023-11-13 06:09:33.946561,True
+461,Cameras,Cameras products,Electronics,Stationary,Marketing,4,2024-03-02 06:09:33.946565,2024-05-30 06:09:33.946565,True
+462,Computers,Computers products,Gadgets,Stationary,Sales,18,2024-01-31 06:09:33.946569,2024-03-22 06:09:33.946569,False
+463,Computers,Computers products,Electronics,Stationary,Marketing,20,2024-02-28 06:09:33.946573,2024-05-21 06:09:33.946573,True
+464,Cameras,Cameras products,Electronics,Portable,Sales,10,2023-12-17 06:09:33.946577,2023-12-28 06:09:33.946577,True
+465,Computers,Computers products,Gadgets,Stationary,Development,38,2024-02-18 06:09:33.946581,2024-05-03 06:09:33.946581,True
+466,Audio Equipment,Audio Equipment products,Electronics,Wearable,Sales,5,2024-03-01 06:09:33.946585,2024-04-20 06:09:33.946585,False
+467,Computers,Computers products,Electronics,Stationary,Marketing,50,2023-10-30 06:09:33.946589,2023-12-03 06:09:33.946589,True
+468,Accessories,Accessories products,Gadgets,Wearable,Marketing,3,2023-12-01 06:09:33.946593,2024-02-14 06:09:33.946593,True
+469,Accessories,Accessories products,Gadgets,Portable,Development,46,2023-07-15 06:09:33.946599,2023-09-25 06:09:33.946599,True
+470,Computers,Computers products,Gadgets,Portable,Marketing,17,2024-02-28 06:09:33.946603,2024-05-13 06:09:33.946603,False
+471,Computers,Computers products,Gadgets,Portable,Marketing,16,2023-12-28 06:09:33.946607,2024-04-06 06:09:33.946607,True
+472,Mobile Devices,Mobile Devices products,Gadgets,Portable,Development,45,2023-12-04 06:09:33.946611,2024-01-06 06:09:33.946611,False
+473,Cameras,Cameras products,Gadgets,Wearable,Sales,33,2023-12-02 06:09:33.946615,2024-02-08 06:09:33.946615,True
+474,Audio Equipment,Audio Equipment products,Electronics,Wearable,Development,37,2023-11-07 06:09:33.946619,2024-01-07 06:09:33.946619,True
+475,Cameras,Cameras products,Gadgets,Portable,Sales,49,2024-01-22 06:09:33.946623,2024-02-29 06:09:33.946623,False
+476,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Marketing,41,2023-08-21 06:09:33.946627,2023-10-03 06:09:33.946627,True
+477,Computers,Computers products,Electronics,Portable,Development,3,2023-08-13 06:09:33.946631,2023-10-19 06:09:33.946631,False
+478,Accessories,Accessories products,Gadgets,Wearable,Sales,44,2023-11-25 06:09:33.946636,2024-01-06 06:09:33.946636,True
+479,Mobile Devices,Mobile Devices products,Gadgets,Portable,Marketing,44,2023-10-23 06:09:33.946639,2023-12-25 06:09:33.946639,False
+480,Accessories,Accessories products,Gadgets,Wearable,Development,24,2023-09-04 06:09:33.946644,2023-10-18 06:09:33.946644,True
+481,Computers,Computers products,Electronics,Stationary,Sales,20,2023-09-13 06:09:33.946648,2023-12-17 06:09:33.946648,False
+482,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,18,2023-08-21 06:09:33.946652,2023-09-19 06:09:33.946652,False
+483,Audio Equipment,Audio Equipment products,Electronics,Wearable,Marketing,5,2024-01-30 06:09:33.946656,2024-04-16 06:09:33.946656,True
+484,Cameras,Cameras products,Gadgets,Portable,Marketing,43,2023-07-30 06:09:33.946660,2023-08-15 06:09:33.946660,True
+485,Accessories,Accessories products,Electronics,Portable,Development,34,2024-01-04 06:09:33.946667,2024-03-18 06:09:33.946667,True
+486,Computers,Computers products,Electronics,Portable,Marketing,38,2023-12-21 06:09:33.946800,2024-01-27 06:09:33.946800,False
+487,Mobile Devices,Mobile Devices products,Electronics,Wearable,Development,41,2023-12-13 06:09:33.946806,2024-01-29 06:09:33.946806,False
+488,Computers,Computers products,Electronics,Stationary,Marketing,18,2023-08-06 06:09:33.946811,2023-08-13 06:09:33.946811,False
+489,Mobile Devices,Mobile Devices products,Gadgets,Wearable,Marketing,37,2023-07-06 06:09:33.946815,2023-07-12 06:09:33.946815,False
+490,Audio Equipment,Audio Equipment products,Gadgets,Wearable,Marketing,26,2023-09-16 06:09:33.946819,2023-10-30 06:09:33.946819,False
+491,Cameras,Cameras products,Gadgets,Stationary,Development,16,2024-02-22 06:09:33.946823,2024-03-25 06:09:33.946823,False
+492,Cameras,Cameras products,Electronics,Stationary,Development,33,2023-08-02 06:09:33.946828,2023-10-19 06:09:33.946828,True
+493,Audio Equipment,Audio Equipment products,Electronics,Portable,Marketing,42,2023-11-08 06:09:33.946832,2023-11-27 06:09:33.946832,True
+494,Audio Equipment,Audio Equipment products,Gadgets,Portable,Sales,38,2024-02-04 06:09:33.946837,2024-04-16 06:09:33.946837,False
+495,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Development,42,2024-02-24 06:09:33.946841,2024-03-14 06:09:33.946841,False
+496,Mobile Devices,Mobile Devices products,Gadgets,Stationary,Development,44,2023-11-02 06:09:33.946845,2024-01-11 06:09:33.946845,False
+497,Accessories,Accessories products,Gadgets,Portable,Marketing,15,2023-11-19 06:09:33.946849,2023-12-23 06:09:33.946849,True
+498,Computers,Computers products,Gadgets,Wearable,Development,27,2023-10-22 06:09:33.946853,2024-01-05 06:09:33.946853,False
+499,Cameras,Cameras products,Electronics,Wearable,Development,45,2024-01-01 06:09:33.946857,2024-02-02 06:09:33.946857,True
+500,Computers,Computers products,Gadgets,Wearable,Development,41,2023-09-04 06:09:33.946862,2023-12-11 06:09:33.946862,False
